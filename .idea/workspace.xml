@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6019f35b-d251-42b8-a494-ba5672e933f8" name="Changes" comment="Ordnerstruktur organisieren">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/.oxlintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/eslint.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/TaskList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/__tests__/HelloWorld.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/tsconfig.vitest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task-Frontend/vitest.config.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="45" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HoangDang79/Task-Frontend.git&quot;,
+    &quot;accountId&quot;: &quot;b7382404-aa5f-4045-80c5-c045b74297fb&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0259162358070033" />
+      <entry key="MS500" value="1.4848144960664516" />
+      <entry key="S2" value="2.3149955584451885" />
+      <entry key="S5" value="4.431802832980942" />
+      <entry key="S10" value="7.077006153129333" />
+      <entry key="S30" value="11.426750195466612" />
+      <entry key="S60" value="13.377940142591765" />
+      <entry key="M2" value="14.588967176219903" />
+      <entry key="M5" value="15.52139769927892" />
+      <entry key="M10" value="16.963002465674293" />
+      <entry key="M15" value="19.264087566001223" />
+      <entry key="M30" value="26.35429452749759" />
+      <entry key="H1" value="34.790050967763335" />
+      <entry key="H2" value="41.58266023611539" />
+      <entry key="H4" value="46.26669029890616" />
+      <entry key="D1" value="52.89240258539292" />
+      <entry key="W1" value="60.15556757771857" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="8.761007133762165E-304" />
+      <entry key="M15" value="1.153304499928019E-202" />
+      <entry key="M30" value="1.518573964640795E-101" />
+      <entry key="H1" value="5.510870552309967E-51" />
+      <entry key="H2" value="1.0498370895146554E-25" />
+      <entry key="H4" value="4.582211764477007E-13" />
+      <entry key="D1" value="0.01564482627339338" />
+      <entry key="W1" value="1.000181164038591" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9978625023882729" />
+      <entry key="MS500" value="1.4766080442872873" />
+      <entry key="S2" value="2.3117317600491747" />
+      <entry key="S5" value="4.42722541786966" />
+      <entry key="S10" value="7.067177550684828" />
+      <entry key="S30" value="11.413338710863009" />
+      <entry key="S60" value="13.368057978749418" />
+      <entry key="M2" value="14.582943316775177" />
+      <entry key="M5" value="15.518484074099627" />
+      <entry key="M10" value="16.960766948186425" />
+      <entry key="M15" value="19.261891309689776" />
+      <entry key="M30" value="26.35229794695035" />
+      <entry key="H1" value="34.788587587493566" />
+      <entry key="H2" value="41.581755828055854" />
+      <entry key="H4" value="46.26618484642654" />
+      <entry key="D1" value="52.90795405691975" />
+      <entry key="W1" value="61.15572984637793" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KuPq5tahpiYawbEKdKelNFJUG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/Hoangi/Downloads/Task-Frontend/Task-Frontend/node_modules/typescript/lib"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Task-Frontend" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6019f35b-d251-42b8-a494-ba5672e933f8" name="Changes" comment="" />
+      <created>1792404668705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792404668705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vue und Frontend" />
+    <MESSAGE value="Ordnerstruktur organisieren" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ordnerstruktur organisieren" />
+  </component>
+</project>
